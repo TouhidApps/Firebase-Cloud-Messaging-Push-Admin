@@ -12,15 +12,15 @@ You are done.
 
 ### Screenshots:
 
-![Screenshot 1](https://github.com/TouhidApps/Firebase-Cloud-Messaging-Push-Admin/blob/main/ss1.png?raw=true "First Look")
+![Screenshot 1](https://github.com/TouhidApps/Firebase-Cloud-Messaging-Push-Admin/blob/main/screenshot/ss1.png?raw=true "First Look")
 
 
 
-![Screenshot 2](https://github.com/TouhidApps/Firebase-Cloud-Messaging-Push-Admin/blob/main/ss2.png?raw=true "Choose your content")
+![Screenshot 2](https://github.com/TouhidApps/Firebase-Cloud-Messaging-Push-Admin/blob/main/screenshot/ss2.png?raw=true "Choose your content")
 
 
 
-![Screenshot 3](https://github.com/TouhidApps/Firebase-Cloud-Messaging-Push-Admin/blob/main/ss3.png?raw=true "After push send")
+![Screenshot 3](https://github.com/TouhidApps/Firebase-Cloud-Messaging-Push-Admin/blob/main/screenshot/ss3.png?raw=true "After push send")
 
 
 
