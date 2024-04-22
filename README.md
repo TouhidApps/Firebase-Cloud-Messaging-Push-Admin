@@ -1,6 +1,12 @@
 # Firebase Cloud Messaging Push Notification Admin Panel with App Content
 Firebase Cloud Messaging API  (V1) - Push Notification Admin panel to send push. - This is the new method to send push notification
 
+## Used Technology:
+1. PHP (No framework)
+2. HTML, CSS, JavaScript
+3. Bootstrap, jQuery
+
+
 ## How to use:
 1. Download the project,
 2. Keep your downloaded admin sdk json file in jsonKeys directory,
