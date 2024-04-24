@@ -179,7 +179,12 @@ function setPushDataToUI(pushType, title, body, imgUrl) {
     $('#pushTitle').val(title.substring(0, 80));
     $('#pushBody').val(body.substring(0, 180));
     $('#pushImage').val(imgUrl);
-}
+
+    // Reset UI
+    hideAlert();
+    $('#pushRequestObject').html('');
+    $('#pushResponseObject').html('');
+} // setPushDataToUI
 
 function loadAppContent() {
 

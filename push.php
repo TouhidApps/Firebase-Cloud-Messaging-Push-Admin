@@ -16,10 +16,11 @@ $pushImage 		= $_POST['pushImage'];
 // Payload data you want to send to Android device(s)
 $payloadData = array('message' => array(
     "token" => $deviceToken,
-    // "notification" => array( // title, body params are fixed
-    //     "title" => $pushTitle,
-    //     "body" => $pushBody
-    // ),
+    "notification" => array( // title, body params are fixed
+        "title" => $pushTitle,
+        "body" => $pushBody,
+        "image" => $pushImage
+    ),
     "data" => array( // Custom values
         "pushType" => $pushType,
         "pushTitle" => $pushTitle,
