@@ -9,7 +9,7 @@ Firebase Cloud Messaging API  (V1) - Push Notification Admin panel to send push.
 
 ## How to use:
 1. Download the project from github,
-2. Keet the project in htdocs directory of Apache web server or upload to your cPanel.
+2. Keep the project in htdocs directory of Apache web server or upload to your cPanel.
 3. Keep your downloaded admin sdk json file in jsonKeys directory of the project,
 4. Rename the json file as: google_api_client.json
 5. If you want to load your app content you can customise push.js & loadAppData.php. You have to change api and paremeters.
